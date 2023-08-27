@@ -1,7 +1,7 @@
 # ND_CallAdmin
 A very simple way to add a new job, with notifications for Admin Calls.
 
-![ND_CallAdmin](https://user-images.githubusercontent.com/112611821/231020861-d7e81041-6e4d-4c1a-9b90-ca7df9f3ab46.png)
+![ND_CallAdmin](https://i.imgur.com/JoDT7T4.png)
 
 
 # Usage
