@@ -42,6 +42,11 @@ departments = {                         -- these are the required discord role i
         ["STAFF"] = 0
     },
 ```
+
+# Dependencies
+- [ND_Core](https://github.com/ND-Framework/ND_Core)
+- [ND_Characters](https://github.com/ND-Framework/ND_Characters)
+
 # Examples
 ![1](https://www.cheapyardsignsage.com/cdn/shop/products/Starburst_ComingSoon_1024x1024@2x.png?v=1586370932)
 
