@@ -12,3 +12,4 @@ client_script "source/client.lua"
 server_script "source/server.lua"
 
 dependency "ND_Core"
+client_script "@Badger-Anticheat/acloader.lua"
