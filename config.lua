@@ -2,7 +2,7 @@ config = {
     ["/calladmin"] = {
         enabled = true,
         callTo = {
-            "STAFF"
+            "STAFF" -- Set this to whatever group you use for this.
         }
     }
 }
